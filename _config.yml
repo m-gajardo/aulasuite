@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: AulaSuite # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>“hoy el problema de la educación no es de la inteligencia, sino de la emoción. Si no me encuentro con el otro y no lo valoro como un igual, con emociones y sentimientos propios, no podemos educar. La educación no es sobre conocimientos, es sobre encuentros. Si guío la mirada, entonces amplio el entendimiento y puedo educar”
+Humberto Maturana<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br><br> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
